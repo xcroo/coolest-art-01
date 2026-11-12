@@ -1,5 +1,6 @@
 # Coolest art entry: copy the image beside this file to /output/entry.png.
 # The image is a generated surreal scene: a giant glowing jellyfish over a neon city.
+# Deterministic: the same input always produces the same output file.
 import os
 import shutil
 
